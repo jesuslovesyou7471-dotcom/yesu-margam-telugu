@@ -1,0 +1,17 @@
+# Android / Gradle
+.gradle/
+build/
+**/build/
+*.apk
+*.aab
+
+# Signing credentials
+*.keystore
+*.jks
+*.p12
+*.pem
+*.pkcs12
+
+# Bubblewrap local state
+.bubblewrap/
+node_modules/
